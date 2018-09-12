@@ -1,0 +1,8 @@
+Dataset Download Page -
+https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/
+
+Case Study Info -
+https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-for-hr-retaining-valuable-employees/
+
+IBM Analytics Video -
+https://youtu.be/MUbmmuve1h8
